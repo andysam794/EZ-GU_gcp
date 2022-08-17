@@ -100,6 +100,6 @@ EZ-GU_gcp
 
 ## 前往預覽：
 
-- <p align="left">(<a href="http://ez-gu.info/" target="_blank">Website link</a>)</p>
+- <p align="left">(<a href="34.81.90.168" target="_blank">Website link</a>)</p>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
